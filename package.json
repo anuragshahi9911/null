@@ -2,7 +2,7 @@
   "name": "null",
   "version": "1.0.0",
   "description": "This plugin will give you null",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "npm run test"
   },
