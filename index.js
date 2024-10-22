@@ -1,5 +1,5 @@
-function myFunction() {
+function giveMeNull() {
   return null;
 }
 
-module.exports = { myFunction };
+module.exports = { giveMeNull };
