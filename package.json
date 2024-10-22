@@ -1,0 +1,22 @@
+{
+  "name": "null",
+  "version": "1.0.0",
+  "description": "This plugin will give you null",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragshahi9911/null.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "Anurag Shahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragshahi9911/null/issues"
+  },
+  "homepage": "https://github.com/anuragshahi9911/null#readme"
+}
