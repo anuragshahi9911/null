@@ -4,8 +4,9 @@
 name: Node.js Package
 
 on:
-  release:
-    types: [created]
+    push:
+      branches:
+        - main  # Run action when code is pushed to the main branch
 
 jobs:
   build:
